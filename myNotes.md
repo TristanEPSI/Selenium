@@ -4,7 +4,7 @@ Nous avons décidé de travailler avec Sélénium pour chrome.
 
 ## IDE Sélénium Browser extensions
 
-  Sélénium IDE consiste en une extension permettant de créer un pattern / chemin que l'on suhaite faire tester sur un site. Depuis celui-ci il est possible de tester des inputs, réaliser un chemin, tester des "issus"
+  Sélénium IDE consiste en une extension permettant de créer un pattern / chemin que l'on souhaite faire tester sur un site. Depuis celui-ci il est possible de tester des inputs, réaliser un chemin, tester des "issus"
 
   Dans notre cas, nous avons testé le site suivant : http://testphp.vulnweb.com/login.php
 
@@ -18,7 +18,7 @@ Nous avons décidé de travailler avec Sélénium pour chrome.
 
   ## Sélénium framework
 
-  Sélénium framework utilise en complément des drivers spécialisés selon le navigateur utilisé. ici nosu utilisons Chrome. Nous avons donc télécharger le chromedriver.exe correspondant et l'avons placé pour ce test dans le même dossier parent que notre configuration.
+  Sélénium framework utilise en complément des drivers spécialisés selon le navigateur utilisé. ici nous utilisons Chrome. Nous avons donc téléchargé le chromedriver.exe correspondant et l'avons placé pour ce test dans le même dossier parent que notre configuration.
 
   Une fois l'installation faite, nous avons créé un ficher 'config_selenium' dans lequel nous avons importé sélénium.
 
